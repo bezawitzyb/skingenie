@@ -1,0 +1,7 @@
+ingredient_name,category,conflicts_with,notes
+Retinol,Active,AHA;BHA;Vitamin C,Use only at night. Avoid with exfoliating acids.
+Niacinamide,Active,Vitamin C,May reduce efficacy of Vitamin C if used together.
+Vitamin C,Antioxidant,Retinol;Niacinamide,Best used in the morning. Unstable in high pH.
+AHA (Glycolic Acid),Exfoliant,Retinol;BHA,Do not use with other exfoliants or retinoids.
+BHA (Salicylic Acid),Exfoliant,Retinol;AHA,Do not use with other exfoliants or retinoids.
+Benzoyl Peroxide,Acne treatment,Retinol;Vitamin C,Can deactivate Retinol and Vitamin C.
